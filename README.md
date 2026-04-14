@@ -23,4 +23,4 @@ Current latest:
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu130
 
 # 2. Install the xformers wheel
-pip install xformers-0.0.35-cp313-cp313-win_amd64.whl --force-reinstall
+pip install xformers-0.0.35-cp313-none-win_amd64.whl --force-reinstall
