@@ -1,4 +1,4 @@
-# xformers Prebuilt Wheels for Blackwell
+# xformers Prebuilt Wheels for Blackwell and Windows amd64
 
 This repository provides **prebuilt xformers wheels** optimized for **Blackwell architecture** (SM 12.0) on Windows.
 
