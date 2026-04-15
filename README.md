@@ -7,7 +7,7 @@ All wheels are built from source with:
 - Windows amd64 platform
 
 ### Purpose
-Since official xformers releases do not yet provide prebuilt wheels for the ** Blackwell ARCH** combination on Windows, these wheels are compiled to help users avoid the complex build process.
+Since official xformers releases do not yet provide prebuilt wheels for the ** Blackwell ARCH ** combination on Windows, these wheels are compiled to help users avoid the complex build process.
 
 ### Available Releases
 Check the **[Releases](../../releases)** page for all available prebuilt wheels.
