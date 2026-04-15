@@ -3,7 +3,6 @@
 This repository provides **prebuilt xformers wheels** specifically compiled for **NVIDIA Blackwell architecture** (SM 12.0) on Windows.
 
 All wheels are built from source with:
-- CUDA 13.0
 - TORCH_CUDA_ARCH_LIST=12.0 (optimized for Blackwell / RTX 50 series)
 - Windows amd64 platform
 
